@@ -1,4 +1,3 @@
-```
 # My React App
 
 This is a React application built with React Router Dom for routing and Tailwind CSS for styling. It includes reusable components such as buttons, containers, form inputs, radio groups, job cards, and a multi-step job card form. The application follows a specific folder structure for organizing the codebase.
@@ -10,7 +9,7 @@ To run the app locally, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone <repository-url>
+   git clone git@github.com:sonu-kumar2001/great-vibes-assignment.git
    ```
 
 2. Navigate to the project directory:
