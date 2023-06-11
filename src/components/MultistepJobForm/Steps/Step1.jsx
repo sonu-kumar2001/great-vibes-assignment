@@ -3,9 +3,9 @@ import FormInput from "../../common/FormInput";
 import Button from "../../common/Button";
 import PropTypes from "prop-types";
 
-export default function Step1({ sectionStyle, nextStep }) {
+export default function Step1({ sectionStyle }) {
   return (
-    <section style={sectionStyle} className="mx-auto">
+    <section style={sectionStyle} className="mx-auto mb-4">
       <div className="flex justify-between items-center mb-6">
         <h3 className="text-20 text-font-color">Create a job</h3>
         <p className="text-16 text-font-color">Step 1</p>
@@ -48,7 +48,7 @@ export default function Step1({ sectionStyle, nextStep }) {
           </div>
         </div>
         <div className="flex justify-end mt-16">
-          <Button onClick={nextStep}>Next</Button>
+          <Button>Next</Button>
         </div>
       </form>
     </section>
