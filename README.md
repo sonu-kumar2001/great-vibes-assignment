@@ -30,7 +30,7 @@ To run the app locally, follow these steps:
    npm start
    ```
 
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the app.
+5. Open your browser and visit [https://great-vibes-assignment.netlify.app](https://great-vibes-assignment.netlify.app) to view the app.
 
 ## Folder Structure
 
