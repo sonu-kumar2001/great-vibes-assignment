@@ -9,7 +9,10 @@ module.exports = {
       "white": "#FAFAFA",
       "placeholder": "#7A7A7A",
       "primary-color": "#1597E4",
-      "red": "#D86161"
+      "red": "#D86161",
+      "black": "#000000",
+      "grey": "#646464",
+      "detail": "#212427",
     },
     extend: {},
   },
