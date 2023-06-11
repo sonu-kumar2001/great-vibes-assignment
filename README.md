@@ -1,4 +1,4 @@
-# My React App
+# Great vibes 
 
 This is a React application built with React Router Dom for routing and Tailwind CSS for styling. It includes reusable components such as buttons, containers, form inputs, radio groups, job cards, and a multi-step job card form. The application follows a specific folder structure for organizing the codebase.
 
